@@ -1,5 +1,5 @@
 //ascii animation code in crap
-//made by cuuczacu
+//made by cucuzacu
 
 #include<fstream>
 #include<iostream>
