@@ -1,2 +1,3 @@
 # Crap_Ascii_Video
-A simple software thet helps u to play an ASCII video in Crap language.
+A simple software thet helps u to play an ASCII video in Crap language.                                  
+Not working(yet)
